@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+jupyterlab = "*"
+tensorflow = "*"
+sklearn = "*"
+matplotlib = "*"
+jupyter-contrib-nbextensions = "*"
+seaborn = "*"
+opencv-python = "*"
+scikit-image = "*"
+statsmodels = "*"
+
+[requires]
+python_version = "3.6"
